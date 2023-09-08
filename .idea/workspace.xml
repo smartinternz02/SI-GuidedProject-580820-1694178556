@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d1feba-743d-4e7b-85b4-141aa1068a1e" name="Changes" comment="Installation of pre-requisites packages" />
+    <list default="true" id="57d1feba-743d-4e7b-85b4-141aa1068a1e" name="Changes" comment="Installation of pre-requisites packages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,11 @@
   </component>
   <component name="QodanaIsSelectedPersistenceService">
     <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/fm/hp0v6rcx5d726qq592xzzzh80000gn/T/qodana_output/qodana.sarif.json" reportGuid="6a7dd1a4-c980-46af-a963-a0c36f51bdd8" reportId="SI-GuidedProject-580820-1694178556/qodana/2023-09-08" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
